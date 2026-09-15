@@ -1,2 +1,3 @@
 # APOF
-É apenas um arquivo de texto simples
+
+It's a just a plain text, which says things about me.
